@@ -1,0 +1,34 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build
+/build/
+/out/
+
+# Logs
+*.log
+logs/
+
+# Java
+*.class
+
+# Test Reports
+/test-output/
+
+# OS
+.DS_Store
+
+# 환경설정 / 보안정보
+.env
+.env.*
+*.local
+.secret
+src/main/resources/application.yml
+
+# 기타
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
